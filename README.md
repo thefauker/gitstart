@@ -2,6 +2,9 @@
 
 Meu nome é arthur, E estou iniciando a minha carreira como programador
 
+<img src="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2019/05/hipertextual-apple-warren-buffett-remake-paperboy-2019307288.jpg?w=1560&quality=60&strip=all&ssl=1" width="300px">
+
+Eu moro em Santiago, Chile :s
 ## hobbies
 
 -ler
