@@ -7,7 +7,7 @@ Meu nome é arthur, E estou iniciando a minha carreira como programador
 Eu moro em Santiago, Chile 
 ## hobbies
 
--ler
+-ler "pai rico pai pobre o melhor"
 -programar
 -invertir
 -treinar
